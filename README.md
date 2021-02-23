@@ -1,2 +1,2 @@
 # serverless-lab
-Serverless-Lab for Friday presentation
+Serverless-Lab for Friday's presentation
